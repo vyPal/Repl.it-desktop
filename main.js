@@ -11,7 +11,7 @@ function createWindow () {
   });
   win.removeMenu();
 
-  win.loadURL('https://repl.it/~');
+  win.loadURL('https://replit.com/~');
 }
 
 app.whenReady().then(createWindow);

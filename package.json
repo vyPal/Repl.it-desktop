@@ -1,15 +1,15 @@
 {
   "name": "replit",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "An unofficial desktop app for replit.com",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["replit", "repl.it", "replit.com", "repl"],
+  "author": "Vypal",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^12.0.0"
+    "electron": "^12.0.2"
   }
 }
